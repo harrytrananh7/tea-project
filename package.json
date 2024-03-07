@@ -1,0 +1,9 @@
+{
+  "name": "@harrytrananh/tea-project",
+  "version": "1.0.0",
+  "description": "Tea project",
+  "main": "index.js",
+  "author": "@harrytrananh",
+  "repository": "https://github.com/harrytrananh7/tea-project.git",
+  "license": "ISC"
+}

@@ -1,1 +1,1 @@
-# tea-project
+This is the README of the tea project.
